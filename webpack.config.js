@@ -7,7 +7,7 @@ module.exports = {
 	output: {
 		path: path.resolve(__dirname, 'dist'),
 		filename: 'tienda-daniel/bundle.js',
-		publicPath: '/',
+		publicPath: '/tienda-daniel/',
 	},
 	mode: 'development',
 	resolve: {
