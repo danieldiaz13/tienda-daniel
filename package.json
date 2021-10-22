@@ -15,7 +15,7 @@
     "react",
     "javascript"
   ],
-  "author": "Oscar Barajas <oscar@platzi.com>",
+  "author": "Daniel Felipe Diaz <programadordanieldiaz@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@babel/core": "^7.15.0",
